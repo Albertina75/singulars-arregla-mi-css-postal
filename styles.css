@@ -44,14 +44,15 @@ footer{
     clear:both;
     display: flex;
     justify-content: center;
-    margin-top: 20px;
 }
 
 footer input[type=submit]{
     border: none;
     border-bottom: 1px solid gray;
     background-color:darkgray;
-    font-family: 'Handlee', cursive; 
+    font-family: 'Handlee', cursive;
+    margin-top: 20px;
+ 
 }
 
 
