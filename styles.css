@@ -33,7 +33,6 @@ body{
 
 .formulario input[type=text]{
     font-family: 'Handlee', cursive; 
-    border: none;
     color: gray;
     padding: 5px;
 }
