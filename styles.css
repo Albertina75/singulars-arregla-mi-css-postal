@@ -44,6 +44,7 @@ footer{
     clear:both;
     display: flex;
     justify-content: center;
+    margin-top: 20px;
 }
 
 footer input[type=submit]{
